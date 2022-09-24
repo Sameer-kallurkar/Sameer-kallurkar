@@ -9,6 +9,13 @@
 👨‍💻 Python
 ⚡ Embedded System
 
+# Certification:
+Python: https://www.hackerrank.com/certificates/00a712d31cf2
+
+JavaScript: https://www.hackerrank.com/certificates/bfa9c85c51e2
+
+CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
+
 ## Example of work
 
 Ecom clone:
