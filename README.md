@@ -1,9 +1,7 @@
-### Hi there 👋, Sameer kallurkar
+### Hi there 👋
 - My name is Sameer Kallurkar, and I hail from India. I am currently pursuing a degree in Electronic and Communication Engineering. As a Python developer and web designer, I have extensive experience in both fields. However, my main area of expertise lies in developing scalable web applications.
-
--With a focus on web development, I have amassed a vast knowledge of Python and web design. My proficiency in these areas allows me to deliver exceptional results that meet the high standards of corporate clients. I take pride in utilizing React to create efficient web applications that are both reliable and user-friendly.
-
--My background in Electronic and Communication Engineering, combined with my experience as a Python developer and web designer, makes me a valuable asset to any corporate team. I am committed to delivering high-quality work and contributing to the success of any project I am a part of.
+- With a focus on web development, I have amassed a vast knowledge of Python and web design. My proficiency in these areas allows me to deliver exceptional results that meet the high standards of corporate clients. I take pride in utilizing React to create efficient web applications that are both reliable and user-friendly.
+- My background in Electronic and Communication Engineering, combined with my experience as a Python developer and web designer, makes me a valuable asset to any corporate team. I am committed to delivering high-quality work and contributing to the success of any project I am a part of.
 
 ## Skills and Exprience:Cancel changes
 
