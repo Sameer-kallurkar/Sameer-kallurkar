@@ -10,6 +10,7 @@
 💻 HTML
 👨‍💻 Python
 ⚡ Embedded System
+⚛ React
 
 # Certification:
 Python: https://www.hackerrank.com/certificates/00a712d31cf2
@@ -23,29 +24,33 @@ Youtube clone:
 - Developed A YouTube clone using ReactJS, Rapid API, a web application that emulates many of the features of the original YouTube platform. The application provides a responsive design that works well on desktop and mobile devices. Containing features like Trending Section, Gaming Section, Live Section, Dark Theme.
 - https://sameer-mytube-app.netlify.app/
 
+Music Streaming app:
+- Developed A Music Streaming app using ReactJS, Rapid Sazam-core API, a web application that plays the music with a user-friendly UI. The application provides a responsive design that works well on desktop and mobile devices. Containing features like Discover, Trending, Around You, Lyrics of song and filtering different genre.
+- https://sameer-lyriks-app.netlify.app/
+
+Landing Page:
+- The landing page is a dynamic and engaging website that is built using Next.js, a popular server-side rendering framework, and Framer Motion, a powerful animation library for React. The combination of these technologies allows for the creation of a fast and responsive landing page that captures the attention of visitors and encourages engagement, a sleek and modern website that is sure to leave a lasting impression on visitors.
+- https://mymeta-landing-page.netlify.app/
+
+CoderX:
+- A clone of ChatGPT created using OpenAI's API would be a sophisticated language model capable of understanding and generating human-like text based on natural language input. The clone would utilize OpenAI's highly advanced GPT (Generative Pre-trained Transformer) architecture, been specifically designed to generate high-quality text based on extensive training data.
+- https://coderx-sameer-kallurkar.vercel.app/
+
 Ecom clone:
 
 ![tinywow_ecom - Google Chrome 2022-09-24 18-57-21_Trim_5902958](https://user-images.githubusercontent.com/113765294/192101452-49c3bca3-c4d8-4e12-adbe-09f69ebb68ba.gif)
 
 
-Calculator:
-
-![tinywow_calculator - Google Chrome 2022-09-24 19-10-55_Trim_5903026](https://user-images.githubusercontent.com/113765294/192101585-d9d5c6c2-6c72-4716-8b95-806468826f2e.gif)
-
-BlackJack Game:
-
-
-![tinywow_Document - Google Chrome 2022-09-24 19-29-23_5903281](https://user-images.githubusercontent.com/113765294/192102072-5c0f87b0-6a07-4028-815b-ce8a7b8be230.gif)
 
   and many more ... 
 
 # Additional:
 
-- 🌱 I’m currently learning Python, Flask 
+- 🌱 I’m currently learning Python, machine learnig
 - 📫 How to reach me: Gmail: sameerkallurkar123@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameer-kallurkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sameerkallurkar/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameer-kallurkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sameerkallurkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='instagram' height='40'>](https://www.linkedin.com/in/sameer-kallurkar)
 
 
 
