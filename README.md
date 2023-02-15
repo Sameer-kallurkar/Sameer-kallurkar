@@ -19,6 +19,9 @@ JavaScript: https://www.hackerrank.com/certificates/bfa9c85c51e2
 CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 
 ## Example of work
+Youtube clone:
+- Developed A YouTube clone using ReactJS, Rapid API, a web application that emulates many of the features of the original YouTube platform. The application provides a responsive design that works well on desktop and mobile devices. Containing features like Trending Section, Gaming Section, Live Section, Dark Theme.
+- https://sameer-mytube-app.netlify.app/
 
 Ecom clone:
 
