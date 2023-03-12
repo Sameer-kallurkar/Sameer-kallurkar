@@ -11,6 +11,7 @@
 👨‍💻 Python
 ⚡ Embedded System
 ⚛ React
+📱 UI/UX
 
 # Certification:
 Python: https://www.hackerrank.com/certificates/00a712d31cf2
@@ -36,10 +37,9 @@ CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 - A clone of ChatGPT created using OpenAI's API would be a sophisticated language model capable of understanding and generating human-like text based on natural language input. The clone would utilize OpenAI's highly advanced GPT (Generative Pre-trained Transformer) architecture, been specifically designed to generate high-quality text based on extensive training data.
 - https://coderx-sameer-kallurkar.vercel.app/
 
-### Ecom clone:
-
-![tinywow_ecom - Google Chrome 2022-09-24 18-57-21_Trim_5902958](https://user-images.githubusercontent.com/113765294/192101452-49c3bca3-c4d8-4e12-adbe-09f69ebb68ba.gif)
-
+### UX Case Study:
+- A UX case study done on a e-commerce application. Solving the problem of user CTR and Retention.
+-https://sameeruxcasestudy1.framer.website
 
 
   and many more ... 
