@@ -33,7 +33,7 @@ CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 - A clone of ChatGPT created using OpenAI's API would be a sophisticated language model capable of understanding and generating human-like text based on natural language input. The clone would utilize OpenAI's highly advanced GPT (Generative Pre-trained Transformer) architecture, been specifically designed to generate high-quality text based on extensive training data.
 -https://github.com/Sameer-kallurkar/CoderX
 
-# UI and UX 
+## UI and UX 
 
 ### Metaverse Landing Page:
 - The landing page is a dynamic and engaging website that is built using Next.js, a popular server-side rendering framework, and Framer Motion, a powerful animation library for React. The combination of these technologies allows for the creation of a fast and responsive landing page that captures the attention of visitors and encourages engagement, a sleek and modern website that is sure to leave a lasting impression on visitors.
@@ -42,6 +42,7 @@ CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 
 ### NFT Landing Page:
 -The landing page is a dynamic and engaging website that is built using React.js and Framer Motion, a powerful animation library for React. The combination of React JS and Framer Motion has allowed us to build a website that is not only visually appealing but also highly functional. We were able to create a seamless user experience, with smooth transitions between pages and elements, while keeping the website fast and responsive.
+-https://nft-landingpage-ui.framer.website/
 
 
 ### UX Case Study:
