@@ -41,8 +41,8 @@ CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 
 
 ### NFT Landing Page:
--The landing page is a dynamic and engaging website that is built using React.js and Framer Motion, a powerful animation library for React. The combination of React JS and Framer Motion has allowed us to build a website that is not only visually appealing but also highly functional. We were able to create a seamless user experience, with smooth transitions between pages and elements, while keeping the website fast and responsive.
--https://nft-landingpage-ui.framer.website/
+- The landing page is a dynamic and engaging website that is built using React.js and Framer Motion, a powerful animation library for React. The combination of React JS and Framer Motion has allowed us to build a website that is not only visually appealing but also highly functional. We were able to create a seamless user experience, with smooth transitions between pages and elements, while keeping the website fast and responsive.
+- https://nft-landingpage-ui.framer.website/
 
 
 ### UX Case Study:
