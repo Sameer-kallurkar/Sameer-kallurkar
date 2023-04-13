@@ -35,7 +35,7 @@ CSS: https://www.hackerrank.com/certificates/34ab6eeddc63
 
 ### CoderX:
 - A clone of ChatGPT created using OpenAI's API would be a sophisticated language model capable of understanding and generating human-like text based on natural language input. The clone would utilize OpenAI's highly advanced GPT (Generative Pre-trained Transformer) architecture, been specifically designed to generate high-quality text based on extensive training data.
-- https://coderx-sameer-kallurkar.vercel.app/
+-https://github.com/Sameer-kallurkar/CoderX
 
 ### UX Case Study:
 - A UX case study done on a e-commerce application. Solving the problem of user CTR and Retention.
