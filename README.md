@@ -60,4 +60,5 @@ Currently diving into the realms of Python and machine learning.
 ## 📫 Let's Connect
 
 📧 Reach me at: sameerkallurkar123@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sameer-kallurkar)
