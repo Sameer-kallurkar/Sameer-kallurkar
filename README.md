@@ -38,7 +38,7 @@ Crafted a Music Streaming app with ReactJS and Rapid Sazam-core API, offering a 
 A sophisticated language model clone of ChatGPT utilizing OpenAI's API and GPT architecture.
 [Explore on GitHub](https://github.com/Sameer-kallurkar/CoderX)
 
-### UI and UX
+## UI and UX
 
 #### Metaverse Landing Page
 Built a dynamic and engaging landing page using Next.js and Framer Motion, ensuring a fast and responsive user experience.
